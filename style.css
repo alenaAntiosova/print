@@ -154,9 +154,6 @@ ul {
   .main__bg {
     background-image: none;
   }
-}
-
-@media (max-width: 500px) {
   .main__screen {
     height: 100vh;
   }
