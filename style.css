@@ -159,7 +159,6 @@ ul {
 @media (max-width: 500px) {
   .main__screen {
     height: 100vh;
-    margin-bottom: 10px;
   }
 }
 
