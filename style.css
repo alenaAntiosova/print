@@ -147,7 +147,7 @@ ul {
 
 .main__screen {
   display: flex;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 690px) {
