@@ -363,6 +363,10 @@ ul {
   gap: 10px;
 }
 
+.form__input {
+  padding-left: 15px;
+}
+
 .form__input-comment {
   border-width: 1px;
   border-color: rgb(223, 223, 223);
@@ -371,8 +375,8 @@ ul {
   background-color: rgb(240, 240, 240);
   opacity: 0.741;
   width: 85%;
-  height: 60px;
   margin-bottom: 20px;
+  padding: 10px 0 0 15px;
 }
 
 @media (max-width: 993px) {
